@@ -66,7 +66,11 @@ code on GitHub. It's a new feature of github-readme-stats*)
 Wakatime Stats:
 <br>
 [![ChadNaps' Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ChadNaps&theme=radical)](https://github.com/chadnaps/github-readme-stats)
-
+<br>
+<br>
+Visitors to This Page:
+<br>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ChadNaps.ChadNaps)
 
 <!--
 **ChadNaps/ChadNaps is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
