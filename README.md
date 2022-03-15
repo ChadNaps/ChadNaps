@@ -81,29 +81,3 @@ I've worked with or have some familiarity with the following technologies:
 ### GitHub Activity:
 
 ![ChadNaps's GitHub stats](https://github-readme-stats.vercel.app/api?username=chadnaps&show_icons=true&theme=radical)
-
-
-### Top Languages:
-
-(*NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most
-code on GitHub. It's a new feature of github-readme-stats*)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chadnaps&theme=radical)](https://github.com/chadnaps/github-readme-stats)
-
------
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ChadNaps.ChadNaps)
-
-<!--
-**ChadNaps/ChadNaps is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
