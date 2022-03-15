@@ -66,10 +66,12 @@ I've worked with or have some familiarity with the following technologies:
 
 ### Design:
 
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)
 ![GIMP](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
 
+### Project Management:
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![ZenHub](https://img.shields.io/badge/ZenHub-4660f9?style=for-the-badge)
 
 ### Streaming:
 
@@ -87,12 +89,6 @@ I've worked with or have some familiarity with the following technologies:
 code on GitHub. It's a new feature of github-readme-stats*)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chadnaps&theme=radical)](https://github.com/chadnaps/github-readme-stats)
-
-
-### Wakatime Stats:
-
-[![ChadNaps' Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ChadNaps&theme=radical)](https://github.com/chadnaps/github-readme-stats)
-
 
 -----
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ChadNaps.ChadNaps)
