@@ -1,10 +1,7 @@
 ![Banner](https://github.com/ChadNaps/ChadNaps/blob/main/Github%20Banner%20Edit.gif)
 
 # About Me
-Hey there, my name is Chad. I've been interested in tech my entire life and recently have been able to put my full focus on developing my professional skills.
-I'm very interested in building applications and services that have a real impact on people's lives. My primary focus is currently on web development, web
-services, and server technologies. I'm currently pretty new to coding, but I'm incredibly passionate about improving and building interesting new tools with my
-skills.
+Hey there, my name is Chad. I've been interested in tech. Well, to be honest, I've been interested in damn near everything. I've enjoyed learning my entire life and have found a unique capacity to abstractly think about concepts in a way that allows me to verbalize emerging patterns in the "data points" I've accumulated over the course of my life.
 
 # Technologies
 I've worked with or have some familiarity with the following technologies:
